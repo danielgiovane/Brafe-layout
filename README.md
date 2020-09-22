@@ -1,5 +1,5 @@
 ## Brafé
 
-## Layout com puro html e css
-## Melhorando minha forma de contrução de layouts de sites.
-## Aperfeiçoando com css-puro, css-grid, css-flex, bootstrap.
+## Layout com html e css
+## Melhorando minha forma de contruir layouts.
+## Aperfeiçoando com css-puro, grid, flex-box, bootstrap.
