@@ -22,6 +22,12 @@ body{
   margin: 0 auto;
 }
 
+.menu-container::after, .menu-container::before{
+  content: '';
+  display: table;
+  clear: both;
+}
+
 .menu-logo{
   display: block;
   float: left;
@@ -33,3 +39,14 @@ body{
   margin-right: 10px;
 }
 
+.menu-nav ul li{
+  display: inline-block; 
+}
+
+.menu-nav ul li a {
+  display: block;
+  padding: 10px;
+  color: #fff;
+  font-size: 1.125em;
+  text-decoration: none;
+}
