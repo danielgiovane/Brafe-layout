@@ -51,6 +51,10 @@ body{
   text-decoration: none;
 }
 
+.menu ul li a:hover {
+  color: #888;
+}
+
 .intro {
   background: url('./img/bg-intro.jpg') no-repeat center center;
   background-size: cover;
